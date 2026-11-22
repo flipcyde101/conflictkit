@@ -1,0 +1,23 @@
+{
+  "name": "conflictkit",
+  "version": "0.1.0",
+  "description": "Non-destructive git merge conflict context packer and resolution verifier for AI agents and developers",
+  "type": "module",
+  "bin": {
+    "conflictkit": "./bin/conflictkit.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "keywords": [
+    "git",
+    "merge",
+    "conflict",
+    "cli",
+    "agents"
+  ],
+  "license": "MIT"
+}
